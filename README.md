@@ -60,10 +60,6 @@ please know that it is still on going and it needs more work but everything is c
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
@@ -132,12 +128,6 @@ npx eslint .
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- COLLABRATIONS-->
-
-## :busts_in_silhouette: Collabrations <a name="collabrationns"></a>
-
-:bust_in_silhouette: **Kingsley chidozie igbor**
-
 -   GitHub: [@Developer-Kingz](https://github.com/Developer-Kingz)
 -   linkedIn: [Kingsley(Chidozie)Igbor](https://www.linkedin.com/in/kingsley-igbor-14b04720b/)
 
@@ -167,7 +157,7 @@ Feel free to check the [issues page](../../issues/).
 
 If you like this project follow me on github!
 
--   GitHub: [@Developer-kingz](https://github.com/Developer-king)
+-   GitHub: [@Developer-kingz](https://github.com/Developer-kingz)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
