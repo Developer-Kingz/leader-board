@@ -1,0 +1,63 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  margin-left: 25vw;
+  margin-top: 10vh;
+}
+
+.recent-scores {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 20vw;
+}
+
+.refresh {
+  width: 5vw;
+  height: 4vh;
+}
+
+.name {
+  width: 20vw;
+  border: 1px solid black;
+  height: 40vh;
+  margin-top: 2vh;
+}
+
+ul {
+  list-style: none;
+}
+
+ul li {
+  height: 5vh;
+  width: 20vw;
+  border: 1px solid black;
+}
+
+.recent-div {
+  display: flex;
+  justify-content: space-between;
+  width: 50vw;
+  margin: auto;
+  margin-top: 5vh;
+}
+
+.refresh-right {
+  width: 20vw;
+  height: 40vh;
+}
+
+input {
+  width: 18vw;
+  margin-top: 2vh;
+  height: 4vh;
+}
+
+.submit {
+  margin-top: 3vh;
+  margin-left: 14.5vw;
+}
