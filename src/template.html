@@ -7,45 +7,47 @@
         <title>Hello World!</title>
     </head>
     <body>
-        <h1>Leaderboard</h1>
-        <div class="recent-div">
-            <div class="recent-inner">
-                <div class="recent-scores">
-                    <p>Recent scores</p>
-                    <button class="refresh">Refresh</button>
+        <section class="main-body">
+            <h1>Leaderboard</h1>
+            <div class="recent-div">
+                <div class="recent-inner">
+                    <div class="recent-scores">
+                        <p>Recent scores</p>
+                        <button class="refresh">Refresh</button>
+                    </div>
+                    <div class="name">
+                        <ul></ul>
+                    </div>
                 </div>
-                <div class="name">
-                    <ul></ul>
+                <div class="refresh-right">
+                    <p>Add your score</p>
+                    <form class="score-form" id="score-form">
+                        <label class="score-form-label" for="user">
+                            <input
+                                class="add-score"
+                                type="text"
+                                id="name"
+                                name="name"
+                                placeholder="add name"
+                                required
+                            />
+                            <span> Your name </span>
+                        </label>
+                        <label class="score-form-label" for="score">
+                            <input
+                                class="add-score"
+                                type="text"
+                                id="score"
+                                name="score"
+                                placeholder="add score"
+                                required
+                            />
+                            <span> Your score </span>
+                        </label>
+                        <button class="submit" type="submit">Submit</button>
+                    </form>
                 </div>
             </div>
-            <div class="refresh-right">
-                <p>Add your score</p>
-                <form class="score-form" id="score-form">
-                    <label class="score-form-label" for="user">
-                        <input
-                            class="add-score"
-                            type="text"
-                            id="name"
-                            name="name"
-                            placeholder="add name"
-                            required
-                        />
-                        <span> Your name </span>
-                    </label>
-                    <label class="score-form-label" for="score">
-                        <input
-                            class="add-score"
-                            type="text"
-                            id="score"
-                            name="score"
-                            placeholder="add score"
-                            required
-                        />
-                        <span> Your score </span>
-                    </label>
-                    <button class="submit" type="submit">Submit</button>
-                </form>
-            </div>
-        </div>
+        </section>
     </body>
 </html>
