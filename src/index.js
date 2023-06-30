@@ -17,7 +17,7 @@ postScore.addEventListener('submit', async (e) => {
 
   try {
     const response = await fetch(
-      'https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/ny53bvmTZNAqKKu9OSx3/scores/',
+      'https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/wR4ZMob09Wz9eXC8ot9q/scores/',
       {
         method: 'POST',
         body: JSON.stringify({ user, score }),

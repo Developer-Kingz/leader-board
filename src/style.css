@@ -14,6 +14,8 @@ body {
   margin: auto;
   border-radius: 20px;
   box-shadow: 0 0 3px gray;
+  border: 1px solid black;
+  overflow: scroll;
   padding-top: 1vh;
   background-color: transparent;
 }

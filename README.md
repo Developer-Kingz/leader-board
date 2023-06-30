@@ -84,7 +84,7 @@ git clone https://github.com/Developer-Kingz/leader-board.git
 
 ### Install
 
-Install this project run the command:
+Install the node modules for this project run the command:
 
 ```
 
@@ -100,13 +100,7 @@ To run the project:
 
 ### Run tests
 
-To run tests, run the following command:
-
--   Track HTML linter errors run:
-
-```
-npx hint .
-```
+To run linters check, run the following command:
 
 -   Track CSS linter errors run:
 
